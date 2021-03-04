@@ -102,6 +102,5 @@ function Get-UnusedAzureResources
     
     end
     {
-        
     }
 }

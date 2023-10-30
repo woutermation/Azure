@@ -16,3 +16,6 @@ Write-Output "Upgrade all applications"
 Start-Process -FilePath "$($winGet.FullName)" -ArgumentList "upgrade --all"
 
 Get-ChildItem $logPath
+
+
+Install FONT Roboto
